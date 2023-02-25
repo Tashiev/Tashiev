@@ -1,6 +1,4 @@
-###            Hi there 👋
-#
-<img src="../large.svg">
+<img src="./large.svg">
 
 <!--
 **Tashiev/Tashiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
