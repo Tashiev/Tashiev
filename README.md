@@ -52,10 +52,6 @@
 
 ---
 
-<br/>
-
----
-
 ### CodeWars:
 
 <img src="./large.svg">
