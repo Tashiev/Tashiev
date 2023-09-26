@@ -7,18 +7,10 @@
 
 ### Контакты:
 
-<a href="https://www.linkedin.com/in/tashiev/" target="_blank">
-<img align="left" alt="Dani | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />
-</a>
-<a href="https://t.me/tashief" target="_blank">
-<img align="left" alt="Dani | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />
-</a>
-<a href="https://wa.me/79087551037?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D0%94%D0%B0%D0%BD%D0%B8%D1%8F%D1%80!" target="_blank">
-<img align="left" alt="Dani | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />
-</a>
-<a href="https://www.instagram.com/tashievv/?hl=ru" target="_blank">
-<img align="left" alt="Dani | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
-</a>
+[<img align="left" alt="Dani | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
+[<img align="left" alt="Dani | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="Dani | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
+[<img align="left" alt="Dani | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br/>
 <br/>
@@ -55,3 +47,8 @@
 ### CodeWars:
 
 <img src="./large.svg">
+
+[linkedin]: https://www.linkedin.com/in/tashiev/
+[whatsapp]: https://wa.me/79087551037?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D0%94%D0%B0%D0%BD%D0%B8%D1%8F%D1%80!
+[telegram]: https://t.me/tashief
+[instagram]: https://www.instagram.com/tashievv/?hl=ru
